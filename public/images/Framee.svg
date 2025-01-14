@@ -1,0 +1,6 @@
+<svg width="174" height="60" viewBox="0 0 174 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="30" cy="30" r="29.5" transform="matrix(-1 0 0 1 60 0)" stroke="white" stroke-opacity="0.5"/>
+<path d="M29.25 30L35 24.25L33.25 22.5L25.75 30L33.25 37.5L35 35.75L29.25 30Z" fill="white" fill-opacity="0.5"/>
+<circle cx="144" cy="30" r="29.5" stroke="white"/>
+<path d="M144.75 30L139 24.25L140.75 22.5L148.25 30L140.75 37.5L139 35.75L144.75 30Z" fill="white"/>
+</svg>
